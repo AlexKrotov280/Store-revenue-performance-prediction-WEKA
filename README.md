@@ -1,6 +1,6 @@
 # Branch-profit/performance-prediction-WEKA
 
- I am Ivor Buquetlowd, the owner of a chain of over 100
+ I am owner of a chain of over 100
 shops in the UK and I would like you to help me run them more efficiently. The shops
 are all similar, but they make amounts of revenue varying from £1 million to nearly
 £5 million per year. I need a computer program that lets me enter the details of a shop
@@ -21,11 +21,8 @@ I have data describing the following aspects of each store:
 • Competition number (how many competing stores are near ours)
 • Competition score (from how good the competing stores are)
 • Revenue from last year
-I have asked my IT department to make the data for my stores available to you. You
-can download it from the Assignment tab on your ITNPBD6 Canvas pages.
-Please remember that this data is commercially sensitive and you should not show it
-to anybody or discuss your findings with anybody except Sandy Brownlee or Kevin
-Swingler.
+
+
 I would appreciate it if you could use the Weka software, Python, or a similar package
 of your choice to build a predictor capable of estimating the revenue that a store
 should generate based on its values for the variables listed in the data. Remember, it
